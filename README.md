@@ -12,6 +12,7 @@ Foi comparado o aumento de temperatura no processador para: um código que não 
 Neste repositório, em src, main.cpp consiste somente no código da etapa de IA. Porém, a pasta "other codes" contêm os demais códigos, das outras duas etapas. Tirando isso, vale ressaltar que todo o framework visto neste repositório foi tirado de https://github.com/atomic14/tensorflow-lite-esp32 , que consiste em um tutorial compreensivo para embarcar modelos tensorflow lite para a esp32.
 
 ## 2. Resultados:
-
+Sla KKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
 
 ## 3. Conclusão:
+Em desenvolvimento
