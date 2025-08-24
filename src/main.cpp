@@ -45,5 +45,5 @@ void loop()
   float expected_result = sin(number1);
 
   Serial.printf("valor esperado: %f, valor obtido: %f\n", expected_result, result);
-
+  delay(100);
 }
